@@ -1,0 +1,9 @@
+apple
+five
+four
+house
+one
+stone
+three
+tree
+two
